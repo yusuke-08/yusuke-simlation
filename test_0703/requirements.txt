@@ -1,0 +1,8 @@
+python==3.12.1
+mesa==2.1.5
+streamlit==1.31.1
+numpy
+pandas
+plotly==5.19.0
+shapely
+pygame
